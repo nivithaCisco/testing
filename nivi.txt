@@ -5,4 +5,8 @@ This is reppo
 >>>>>>> 0edcff8f1f0b203833cc4fd1022accd943e5ffc6
 
 
+<<<<<<< HEAD
 /pp
+=======
+Lartssss
+>>>>>>> c996c7ab3462587eb78cfb38c672084f01467426
